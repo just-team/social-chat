@@ -1,5 +1,6 @@
 /mobile/node_modules
 /mobile/ios
 /mobile/index.ios.js
-
+/mobile/android/local.properties
+/mobile/npm-debug.log
 /server/node_modules

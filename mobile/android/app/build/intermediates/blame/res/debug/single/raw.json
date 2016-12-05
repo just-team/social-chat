@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
-        "source": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/res/raw/gtm_analytics"
-    },
-    {
-        "merged": "/home/nairi/Desktop/chatFB_Mobile/android/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
-        "source": "/home/nairi/Desktop/chatFB_Mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/res/raw/gtm_analytics"
+        "merged": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/res/raw/gtm_analytics"
     }
 ]
