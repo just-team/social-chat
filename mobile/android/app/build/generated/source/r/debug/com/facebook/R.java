@@ -112,15 +112,15 @@ public final class R {
 		public static final int com_facebook_tooltip_blue_bottomnub = 0x7f020055;
 		public static final int com_facebook_tooltip_blue_topnub = 0x7f020056;
 		public static final int com_facebook_tooltip_blue_xout = 0x7f020057;
-		public static final int messenger_bubble_large_blue = 0x7f02006e;
-		public static final int messenger_bubble_large_white = 0x7f02006f;
-		public static final int messenger_bubble_small_blue = 0x7f020070;
-		public static final int messenger_bubble_small_white = 0x7f020071;
-		public static final int messenger_button_blue_bg_round = 0x7f020072;
-		public static final int messenger_button_blue_bg_selector = 0x7f020073;
-		public static final int messenger_button_send_round_shadow = 0x7f020074;
-		public static final int messenger_button_white_bg_round = 0x7f020075;
-		public static final int messenger_button_white_bg_selector = 0x7f020076;
+		public static final int messenger_bubble_large_blue = 0x7f02006f;
+		public static final int messenger_bubble_large_white = 0x7f020070;
+		public static final int messenger_bubble_small_blue = 0x7f020071;
+		public static final int messenger_bubble_small_white = 0x7f020072;
+		public static final int messenger_button_blue_bg_round = 0x7f020073;
+		public static final int messenger_button_blue_bg_selector = 0x7f020074;
+		public static final int messenger_button_send_round_shadow = 0x7f020075;
+		public static final int messenger_button_white_bg_round = 0x7f020076;
+		public static final int messenger_button_white_bg_selector = 0x7f020077;
 	}
 	public static final class id {
 		public static final int automatic = 0x7f0e003c;
@@ -185,7 +185,7 @@ public final class R {
 		public static final int com_facebook_send_button_text = 0x7f08001f;
 		public static final int com_facebook_share_button_text = 0x7f080020;
 		public static final int com_facebook_tooltip_default = 0x7f080021;
-		public static final int messenger_send_button_text = 0x7f080033;
+		public static final int messenger_send_button_text = 0x7f080036;
 	}
 	public static final class style {
 		public static final int CardView = 0x7f0a00ac;

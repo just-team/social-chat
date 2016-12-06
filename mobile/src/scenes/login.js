@@ -6,6 +6,7 @@ import {Actions} from 'react-native-router-flux';
 
 import FBLoginView from '../elements/fb.login.btn';
 import LoginEmitter from '../emitters/login';
+import ChatEmitter from '../emitters/chat';
 import Config from '../config/oneSignal';
 
 
