@@ -40,7 +40,10 @@ export default class LoginComponent extends Component {
                 profile: {
                     name: data.profile.name,
                     email: data.profile.email,
-                    age: data.profile.age_range,
+                    age: {
+                        min: data.profile.age_range.min || 0,
+                        max: data.profile.age_range.max || 0,
+                    },
                     profile_url: data.profile.link,
                     picture: data.profile.picture.data.url
                 }
