@@ -1,6 +1,7 @@
 /.idea/
 /mobile/node_modules
 /mobile/ios
+/mobile/android
 /mobile/index.ios.js
 /mobile/android/local.properties
 /npm-debug.log
