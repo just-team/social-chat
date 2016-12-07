@@ -7,8 +7,7 @@ import {Actions} from 'react-native-router-flux';
 import FBLoginView from '../elements/fb.login.btn';
 import LoginEmitter from '../emitters/login';
 import ChatEmitter from '../emitters/chat';
-import Config from '../config/oneSignal';
-
+import prettyData from '../helpers';
 
 export default class LoginComponent extends Component {
     constructor(props) {
@@ -34,20 +33,8 @@ export default class LoginComponent extends Component {
     onLogin(data) {
         AsyncStorage.setItem(data.credentials.userId, JSON.stringify(data.profile));
         console.log("Item set in storage");
-        ChatEmitter.emit('send_user_data', {
-                user_fb_id: data.profile.id,
-                user_note_id: Config.userId,
-                profile: {
-                    name: data.profile.name,
-                    email: data.profile.email,
-                    age: {
-                        min: data.profile.age_range.min || 0,
-                        max: data.profile.age_range.max || 0,
-                    },
-                    profile_url: data.profile.link,
-                    picture: data.profile.picture.data.url
-                }
-        });
+        ChatEmitter.emit('send_user_data', prettyData(data));
+        Actions.chat({profile: data.profile});
     } 
     
     render() {

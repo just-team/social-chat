@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 import {Text, View, TextInput, ScrollView, AsyncStorage} from 'react-native';
 import SideMenu from 'react-native-side-menu';
-import Dimensions from 'Dimensions';
 
-const {width, height} = Dimensions.get('window');
 import Menu from '../elements/user.list.menu';
 import Styles from '../styles';
 import ChatEmitter from '../emitters/chat';
+import '../socket';
+import prettyData from '../helpers';
 
 export default class ChatComponent extends Component {
 
@@ -25,7 +25,8 @@ export default class ChatComponent extends Component {
       ChatEmitter.addListener('userTyping', (data) => {
 
       });
-      ChatEmitter.emit("connect", this.props.profile);
+      console.log(this.props.profile);
+      ChatEmitter.emit("connect", prettyData(this.props));
   }
 
 
@@ -50,17 +51,11 @@ export default class ChatComponent extends Component {
   }
 
   setMessagesToStorage(messages) {
-    AsyncStorage.setItem(`${self.state.friendId}msg`, JSON.stringify(messages));
+    AsyncStorage.setItem(`${this.state.friendId}msg`, JSON.stringify(messages));
   }
 
   getMessagesFromStorage() {
-      return AsyncStorage.getItem(`${self.state.friendId}msg`)
-  }
-
-  toggle() {
-    this.setState({
-      isOpen: !this.state.isOpen,
-    });
+      return AsyncStorage.getItem(`${this.state.friendId}msg`)
   }
 
   updateMenuState(isOpen) {
@@ -77,24 +72,24 @@ export default class ChatComponent extends Component {
               date: Date.now()
           }
         });
-        setMessageToStorage(this.state.message);
+      setMessageToStorage(this.state.message);
         this.setState({message: ""});
   }
 
   onUserSelected = (data) => {
+    console.log(data);
     this.setState({
       isOpen: false,
       friendName: data.name,
-      friendId: data.id,
-      friendUserId: data.userId
+      friendId: data.user_fb_id
     });
     let self = this;
 
-    this.getMessagesFromStorage(data.friend.userId)
+    this.getMessagesFromStorage(data.user_fb_id)
         .then((messages) => {
             self.setState({messages: messages});
     })
-  }
+  };
 
   onChangeText(text) {
       this.setState({message: text});
@@ -102,14 +97,16 @@ export default class ChatComponent extends Component {
 
   render() {
     let self = this;
-    const users = [ ]
+    const users = [ ];
     for(let i = 0; i < 30; i++) {
         let name = `User${i + 1}`;
         users.push({
-            name: name 
+            profile: {
+                name: name
+            }
         });
     }
-    const menu = <Menu onClick={this.onUserSelected} imageUrl={this.props.profile.picture.data.url} name={this.props.profile.name} users={users}/>;
+    const menu = <Menu onClick={this.onUserSelected.bind(this)} imageUrl={this.props.profile.picture.data.url} name={this.props.profile.name} users={users} user_fb_id={this.props.profile.user_fb_id}/>;
     return (
       <SideMenu
         menu={menu}

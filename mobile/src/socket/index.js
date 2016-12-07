@@ -1,4 +1,4 @@
-import * as io from 'socket.io-client/socket.io';
+import * as io from 'socket.io-client/dist/socket.io';
 import ChatEmitter from '../emitters/chat';
 import LoginEmitter from '../emitters/login'
 import config from '../config';
@@ -36,10 +36,18 @@ socket.on('login complete', (userId) => {
     LoginEmitter.emit('loggedIn', userId);
 });
 
+socket.on('get users', (users) => {
+    ChatEmitter.emit('get users', users);
+});
+
 socket.on('connect_failed', function() {
     console.log("There seems to be an issue with the connection!");
 });
 
 socket.on('error', function(err) {
     console.log("Error on socket:", err);
+});
+
+socket.on('connect', () => {
+    console.log('Connected!');
 });

@@ -14,26 +14,32 @@ const window = Dimensions.get('window');
 
 import Styles from '../styles';
 
-module.exports = class Menu extends Component {
+export default class Menu extends Component {
 
     constructor(props) {
         super(props);
         let self = this;
 
-        this.state = {users: this.getUsers(this.props.users)}
+        this.state = {users: this.getUsers(this.props.users)};
 
-        ChatEmitter.addListener('receive users', (data) => {
-            self.setState({users: data});
+        ChatEmitter.addListener('get users', (data) => {
+            console.log('get users', data);
+            self.setState({users: this.getUsers(data)});
+            console.log("State changed, users are: ", this.state.users);
         });
     }
 
     getUsers(users) {
-        return users.map((user, index) => {
-            return (
-                <View style={Styles.item} key={`user${index}`}>
-                    <Text style={Styles.userListName} onPress={() => {this.props.onClick(user.name)}}>{user.name}</Text>
-                </View>)
-        });
+        let views = [];
+        for(let i in users) {
+            if(users[i].profile.user_fb_id == this.props.user_fb_id) continue;
+
+            views.push(
+                <View style={Styles.item} key={`user${i}`}>
+                    <Text style={Styles.userListName} onPress={() => {this.props.onClick(users[i].profile)}}>{users[i].profile.name}</Text>
+                </View>);
+        }
+        return views;
     }
 
     render() {
