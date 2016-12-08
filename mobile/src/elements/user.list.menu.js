@@ -32,8 +32,6 @@ export default class Menu extends Component {
     getUsers(users) {
         let views = [];
         for(let i in users) {
-            if(users[i].profile.user_fb_id == this.props.user_fb_id) continue;
-
             views.push(
                 <View style={Styles.item} key={`user${i}`}>
                     <Text style={Styles.userListName} onPress={() => {this.props.onClick(users[i].profile)}}>{users[i].profile.name}</Text>

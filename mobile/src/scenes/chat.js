@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
-import {Text, View, TextInput, ScrollView, AsyncStorage} from 'react-native';
+import {Text, View, TextInput, ScrollView, AsyncStorage, Image} from 'react-native';
 import SideMenu from 'react-native-side-menu';
 
+import Icon from 'react-native-vector-icons/MaterialIcons';
 import Menu from '../elements/user.list.menu';
 import Styles from '../styles';
 import ChatEmitter from '../emitters/chat';
@@ -35,7 +36,8 @@ export default class ChatComponent extends Component {
     messages: [],
     friendName: "",
     friendId: "",
-    message: ""
+    message: "",
+    friendPicture: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png"
   };
 
   setMessageToStorage(message) {
@@ -81,7 +83,8 @@ export default class ChatComponent extends Component {
     this.setState({
       isOpen: false,
       friendName: data.name,
-      friendId: data.user_fb_id
+      friendId: data.user_fb_id,
+      friendPicture: data.picture
     });
     let self = this;
 
@@ -97,16 +100,7 @@ export default class ChatComponent extends Component {
 
   render() {
     let self = this;
-    const users = [ ];
-    for(let i = 0; i < 30; i++) {
-        let name = `User${i + 1}`;
-        users.push({
-            profile: {
-                name: name
-            }
-        });
-    }
-    const menu = <Menu onClick={this.onUserSelected.bind(this)} imageUrl={this.props.profile.picture.data.url} name={this.props.profile.name} users={users} user_fb_id={this.props.profile.user_fb_id}/>;
+    const menu = <Menu onClick={this.onUserSelected.bind(this)} imageUrl={this.props.profile.picture.data.url} name={this.props.profile.name} users={[]} user_fb_id={this.props.profile.user_fb_id}/>;
     return (
       <SideMenu
         menu={menu}
@@ -114,13 +108,18 @@ export default class ChatComponent extends Component {
         onChange={(isOpen) => this.updateMenuState(isOpen)}>
         <View style={[Styles.flex, Styles.flexStart, Styles.bgWhite, Styles.flexCol]}>
             <View style={[Styles.header]}>
+                <Image
+                    style={Styles.friendAvatar}
+                    source={{uri: this.state.friendPicture}}/>
                 <Text style={[Styles.headerText, Styles.flex, Styles.selfCenter]}>{this.state.friendName}</Text>
             </View>
             <ScrollView scrollToTop={false} containerStyle={[Styles.flex, Styles.flexCol, Styles.flexStart, Styles.selfBottom, Styles.messageBox]}>
-                <Text>Message</Text>
+                <Text style={Styles.message}>Message</Text>
             </ScrollView>
-            <View>
+            <View style={[Styles.flex, Styles.flexStart, Styles.inputGroup]}>
                 <TextInput placeholder="Write a message..." style={Styles.input} onChangeText={this.onChangeText.bind(this)} value={this.state.message}/>
+                <Icon.Button name="message" backgroundColor="#757575" onPress={() => {}} style={Styles.flex, Styles.flexCenter , {height: 32, width: 64, borderRadius: 0}}>
+                </Icon.Button>
             </View>        
         </View>
       </SideMenu>

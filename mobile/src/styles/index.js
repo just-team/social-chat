@@ -41,12 +41,13 @@ const Styles = StyleSheet.create({
         alignSelf: 'flex-start'
     },
     header: {
-        height: 45,
+        height: 55,
         backgroundColor: 'gray',
         borderColor: 'black',
         borderBottomWidth: 1,
         width: width,
-        paddingTop: 10,
+        padding: 10,
+        flexDirection: 'row'
     },
     headerText: {
         fontSize: 16
@@ -69,6 +70,12 @@ const Styles = StyleSheet.create({
         height: 48,
         borderRadius: 24,
         flex: 1,
+    },
+    friendAvatar: {
+        width: 32,
+        height: 32,
+        borderRadius: 24,
+        marginRight: 10
     },
     name: {
         position: 'absolute',
@@ -94,7 +101,21 @@ const Styles = StyleSheet.create({
         borderBottomWidth: 1,
     },
     input: {
+        width: width - 64,
+        height: 64
+    },
+    inputGroup: {
+        position: 'absolute',
+        bottom: 0,
+        width: width,
+        flexDirection: 'row',
+        flexShrink: 1
+    },
+    message: {
+        backgroundColor: 'aqua',
+        borderRadius: 20,
+        padding: 10
     }
-})
+});
 
 export default Styles;
