@@ -99,22 +99,55 @@ const Styles = StyleSheet.create({
         backgroundColor: 'tan',
         borderColor: 'black',
         borderBottomWidth: 1,
+        paddingBottom: 30
     },
     input: {
         width: width - 64,
-        height: 64
+        height: 64,
     },
     inputGroup: {
         position: 'absolute',
         bottom: 0,
         width: width,
         flexDirection: 'row',
-        flexShrink: 1
+        flexShrink: 1,
+        backgroundColor: '#ffff',
+        marginTop: 20
     },
     message: {
         backgroundColor: 'aqua',
         borderRadius: 20,
         padding: 10
+    },
+    bubble: {
+        position: 'relative',
+        padding: 10,
+        backgroundColor: 'aqua',
+        borderRadius: 10,
+        paddingRight: 30,
+        width: width/1.5,
+        flex: 1,
+        marginTop: 10
+
+    },
+    bubbleAfter: {
+        position: 'absolute',
+        borderWidth: 15,
+        borderColor: 'black',
+        zIndex: 1,
+        left: -15,
+        top: 45
+    },
+    bubbleRight: {
+        alignSelf: 'flex-end'
+    },
+    bubbleImg: {
+        position: 'absolute',
+        bottom: 0,
+        right: 1
+    },
+    bgDarkBlue: {
+        backgroundColor: '#0077e5'
     }
 });
 

@@ -33,8 +33,53 @@ export default class ChatComponent extends Component {
 
   state = {
     isOpen: true,
-    messages: [],
-    friendName: "",
+    messages: [
+        {
+            content: "Barev",
+            sender: '1233'
+        },
+        {
+            content: "Hajox",
+            sender: this.props.profile.user_fb_id
+        },
+        {
+            content: "Inch ka chka? Vonces?",
+            sender: "213132"
+        },
+        {
+            content: "Ankap eli",
+            sender: this.props.profile.user_fb_id
+        },
+        {
+            content: "Ba urish?",
+            sender: "12312312"
+        },
+        {
+            content: "Lyoqsh",
+            sender: this.props.profile.user_fb_id
+        },
+        {
+            content: "Lav de davay",
+            sender: "21312311231"
+        },
+        {
+            content: "Ankap eli",
+            sender: this.props.profile.user_fb_id
+        },
+        {
+            content: "Ba urish?",
+            sender: "12312312"
+        },
+        {
+            content: "Lyoqsh",
+            sender: this.props.profile.user_fb_id
+        },
+        {
+            content: "Lav de davay",
+            sender: "21312311231"
+        }
+    ],
+    friendName: "Hambal",
     friendId: "",
     message: "",
     friendPicture: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png"
@@ -65,21 +110,23 @@ export default class ChatComponent extends Component {
   }
 
   sendMessage() {
+      const message = {
+          to: this.state.friendId,
+          from: this.props.profile.userId,
+          content: this.state.message,
+          date: Date.now()
+      };
+      this.state.messages.push(message);
+      this.setState({messages: this.state.messages});
       ChatEmitter.emit('send message', {
-          socketId: this.state.friendId, 
-          message: {
-              to: this.state.friendUserId,
-              from: this.props.profile.userId,
-              content: this.state.message,
-              date: Date.now()
-          }
-        });
-      setMessageToStorage(this.state.message);
-        this.setState({message: ""});
+          socketId: this.state.friendSocketId,
+          message: message
+      });
+      this.setMessageToStorage(message);
+      this.setState({message: ""});
   }
 
   onUserSelected = (data) => {
-    console.log(data);
     this.setState({
       isOpen: false,
       friendName: data.name,
@@ -90,7 +137,7 @@ export default class ChatComponent extends Component {
 
     this.getMessagesFromStorage(data.user_fb_id)
         .then((messages) => {
-            self.setState({messages: messages});
+            self.setState({messages: messages || []});
     })
   };
 
@@ -99,7 +146,6 @@ export default class ChatComponent extends Component {
   }
 
   render() {
-    let self = this;
     const menu = <Menu onClick={this.onUserSelected.bind(this)} imageUrl={this.props.profile.picture.data.url} name={this.props.profile.name} users={[]} user_fb_id={this.props.profile.user_fb_id}/>;
     return (
       <SideMenu
@@ -114,11 +160,32 @@ export default class ChatComponent extends Component {
                 <Text style={[Styles.headerText, Styles.flex, Styles.selfCenter]}>{this.state.friendName}</Text>
             </View>
             <ScrollView scrollToTop={false} containerStyle={[Styles.flex, Styles.flexCol, Styles.flexStart, Styles.selfBottom, Styles.messageBox]}>
-                <Text style={Styles.message}>Message</Text>
+                {
+                    this.state.messages.map((message, i) => {
+                        const styles = [Styles.bubble];
+                        let src = this.state.friendPicture;
+                        if(message.sender == this.props.profile.user_fb_id) {
+                            styles.push(Styles.bubbleRight, Styles.bgDarkBlue);
+                            src = this.props.profile.picture.data.url;
+                        }
+                        return (
+                            <View style={styles} key={i}>
+                                {(message.sender != this.props.profile.user_fb_id)?
+                                    (<Image
+                                        style={[Styles.friendAvatar, Styles.bubbleImg]}
+                                        source={{uri: src}}/>
+                                    ): null
+
+                                }
+                                <Text> {message.content}</Text>
+                            </View>
+                        );
+                    })
+                }
             </ScrollView>
             <View style={[Styles.flex, Styles.flexStart, Styles.inputGroup]}>
                 <TextInput placeholder="Write a message..." style={Styles.input} onChangeText={this.onChangeText.bind(this)} value={this.state.message}/>
-                <Icon.Button name="message" backgroundColor="#757575" onPress={() => {}} style={Styles.flex, Styles.flexCenter , {height: 32, width: 64, borderRadius: 0}}>
+                <Icon.Button name="message" backgroundColor="#757575" onPress={this.sendMessage.bind(this)} style={Styles.flex, Styles.flexCenter , {height: 32, width: 64, borderRadius: 0}}>
                 </Icon.Button>
             </View>        
         </View>

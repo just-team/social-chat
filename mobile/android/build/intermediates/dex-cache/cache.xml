@@ -2,263 +2,270 @@
 <items version="2" >
 
     <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_4f752ffbf785a9455b114228abd1c50fa6b6c91f.jar" />
-    </item>
-    <item
-        jar="/home/nairi/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b132acffab29c0a9e70b6d758d33cacb9f2725bf.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="3ac8871b8dca7d0750bca6cd92aedec19d07d3ef">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_f8e4ad2c5976d6a2e97192f2666840c0f33b80b5.jar" />
-    </item>
-    <item
-        jar="/home/nairi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_0f77690bd1752c5c76b3c0e28624cb805a3740db.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/2.6.2/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="9b01cccf45e277f91321ce021e78e629d287d01f">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.onesignal-OneSignal-2.6.2_a2d419a526f545d1cca906172b3f5fcbde42a77c.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.6.1_4b96459ee60428485175c0dc7aec8ef2ffd68f12.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.6.1_e4864f0f7b5c8fafd430b251a1243909ed2b1ca1.jar" />
-    </item>
-    <item
-        jar="/home/nairi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_95cedaf615316883bd5b9c06a189c6fd3c9b768b.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/chatFB_Mobile/react-native-onesignal/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a2a8314c2ded21b0ac11408e15ecf7d2f0c93e1e">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/chatFB_Mobile-react-native-onesignal-unspecified_cde57c042237c16ff198a0e28b975627570674ed.jar" />
-    </item>
-    <item
-        jar="/home/nairi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_a4b4b92b5a109d91ff7f2f8f4a6f334316c70ab3.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_482590905409bdc3894a167e1a926e12f416470b.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_c687eb8d121ce835b8de45e704bc1317cb8e7584.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_05552c5671eca0fcf1a8622cd10988b039c49c79.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_a567649eed067b1e5a050a225551b6b12051d7e4.jar" />
-    </item>
-    <item
-        jar="/home/nairi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_f0bf8f6249e8a76dfbd70ec35fe8e09f25379d1f.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="45b2c107c63eeed4a35c2d1d5d61783b194cbcd5">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.39.0_ce5823b1619639e356b0cc4e9f21cf344ef73dbb.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="53df71a373e68311fc2c587aa814db7f366ace95">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.10.1_0d5618da0b7cc27c468c5ed58c023d913244b3ee.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_23bda276cc9377e91b329ee0b975c48acd1c7de0.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/chatFB_Mobile/react-native-vector-icons/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8f42e9e7239bb5f8258841c235b87cf9ab2d723a">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/chatFB_Mobile-react-native-vector-icons-unspecified_785700529ebb8b15b324f9620a1aada9cdcf14a3.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/chatFB_Mobile/react-native-facebook-login/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="7789736c4c264b7ca9d85dbe42fbc91628ff8310">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/chatFB_Mobile-react-native-facebook-login-unspecified_66468f401d94c3ce988b8ae8b3c617b71e41e321.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_191cc6cba29236073b9a410789c04e4891944e49.jar" />
-    </item>
-    <item
-        jar="/home/nairi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_16a6b1c7e8b29d5084df7f706c74f61acbcb6803.jar" />
-    </item>
-    <item
-        jar="/home/nairi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_587655865f4b74ddf7a42d22d1cb464fb5eefc2f.jar" />
-    </item>
-    <item
-        jar="/home/nairi/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_72bc7dbc7f2f90ba685a669cb2202922179d2373.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.6.1_55aaf142efb0d9cb78db3173ad16024934264383.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.6.1_e59fdf5e8c9a18916d7eae8458057c048dc5c37b.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_1260dad1668d23b7a2bad1a38da93b4a82257559.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_4c5f2aceb6f8607baedd851274e762f1492cdc69.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.6.1_3f572c61da80aad5da7b4b356fc4dfab8c1df7f7.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_ac1fa1ba601955e6d642d36d8b93bdae7bbc9502.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_542b215389f233397927f57ac180ad925b506ee7.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_b8d6c72224e76d5482610eec1397a9d360ffa059.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_330e4242c64022a6c1ab3f5f5ef2abe6441becdd.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.0_08c1d9f5127c51c77a49cf4fcf269a9cfeb939d0.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_8c24c523ca892bacf80e0842484c227bf083d05e.jar" />
-    </item>
-    <item
-        jar="/home/nairi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_91c07f0438727e1099f2126092ea57c57b10ece0.jar" />
-    </item>
-    <item
-        jar="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="1137942adeb03984c1311b662363dd38fc238fd3">
-        <dex dex="/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_15ebbe78c2be6c2cc71fd10fdf95c6b27e08e3ee.jar" />
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_a681b510fed2d5c743f918213d5c6b84fa382c57.jar" />
+    </item>
+    <item
+        jar="/home/varik/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_965f4f4fe584ce79fda47b28833baf935ff8ae8d.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.1_afc4708fe974c0dd94c3f7c755b1fe42ac73aa48.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.0.1_83da6dc55f559956690f0ea787d80ffb25be7ecc.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.1_e47fc17793ec150ad7d860bb34b0c020083d916d.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_8967d986432ec77d0add9f4800b1df61548da2b8.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.1_c4ae6ecef3edf3a32cfaeb41b0044bbe4a081281.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/chatFB_Mobile/react-native-facebook-login/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="193ea89cfd0eb3bf542921a02d3aa2b710accac5">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/chatFB_Mobile-react-native-facebook-login-unspecified_e1ebe54fad9a00e9b2dc747a249ec8192db956c9.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3ac8871b8dca7d0750bca6cd92aedec19d07d3ef">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_3f28a6670a26ad2b7e83681f941d43254959cc0a.jar" />
+    </item>
+    <item
+        jar="/home/varik/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_f1715116a24aa44421b2bf33566877757dc2de84.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/2.6.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9b01cccf45e277f91321ce021e78e629d287d01f">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.onesignal-OneSignal-2.6.2_891cff5e9805dc1b411b02b196653695fa99fbc7.jar" />
+    </item>
+    <item
+        jar="/home/varik/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_3fc036a3a186a11f71e5a0da10bddeddab67ce8d.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_7656ca037206c581853ddce0fc25308f2d02e40d.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_39a99f0b6e935073b51adfa5bd7186d90ba1c7a1.jar" />
+    </item>
+    <item
+        jar="/home/varik/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_b3f3ce7cefe801198d05619ea3618a17dc988ad8.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_92287a5b30335270c981cb76688fd22b8db3d10d.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="53df71a373e68311fc2c587aa814db7f366ace95">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.10.1_d38e19d3c02197c9622e488e63700a9f35c4d3ae.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_82a199c9deee66fec448d9824d667ea0067877f7.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_56e21728d95435a9bd0945692273a58f53f48e26.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_122cd5236b160b9ee632f6af6f80323552576328.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2ff369a86b64761610f4bc7c91ef2ca0e617110d.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_0051c756d8b3aac3c8bd607ad61fc5cb7ca5f5e1.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/chatFB_Mobile/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="30fee0ca3e6e025f0e60bce1b3a8f0fbc769085f">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/chatFB_Mobile-react-native-vector-icons-unspecified_bdfa02cc73d015dbd980c3c194757a953509d234.jar" />
+    </item>
+    <item
+        jar="/home/varik/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_9b88c7ec7a5d89f5c4e829a18d6e17304f568361.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.0.1_6e866c31f17f3a04d9dbd73b1b02b80380c023de.jar" />
+    </item>
+    <item
+        jar="/home/varik/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_5d868657bfaa8d0e171bb45ee3f42da88c18cd16.jar" />
+    </item>
+    <item
+        jar="/home/varik/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_8cfc03e0c3e71f7723d63b299f169eb1e6fc8f23.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="45b2c107c63eeed4a35c2d1d5d61783b194cbcd5">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.39.0_0089a9fe41ea32362d6f13860b8bdcfda08618ad.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_b7a0b422c47e896957f668a500d90461c715bed7.jar" />
+    </item>
+    <item
+        jar="/home/varik/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_fdac1bf7403ae570c6fe0fba3091b8ebef6818ae.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_40e916d0129f029284a608ad0a0826410c7779a3.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_b0ee2e2653ee6e3b5682f43cda0e8657a1d9077a.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/chatFB_Mobile/react-native-onesignal/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d3d63ba8fbd918ea334b2521d6b8e10cbcbcc902">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/chatFB_Mobile-react-native-onesignal-unspecified_86b233578d998eb1427d7e8311b7465fcb133a3e.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.0_85f0d50e728575034bb8523be6e01f26190ec5c5.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_e557930f4080724126e12529bdd8c8f9ce3a5416.jar" />
+    </item>
+    <item
+        jar="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_15627768456d3e9866f3681001d77b5656fb4619.jar" />
+    </item>
+    <item
+        jar="/usr/local/bin/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_e703c217c4b4845e9fdd6149af7fff83a5d51de2.jar" />
+    </item>
+    <item
+        jar="/home/varik/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_5d1a87df1017e43d469cbdfaf1b2120dbfff6d59.jar" />
     </item>
 
 </items>
