@@ -26,8 +26,6 @@ export default class ChatComponent extends Component {
       ChatEmitter.addListener('userTyping', (data) => {
 
       });
-      console.log(this.props.profile);
-      ChatEmitter.emit("connect", prettyData(this.props));
   }
 
 
@@ -146,7 +144,7 @@ export default class ChatComponent extends Component {
   }
 
   render() {
-    const menu = <Menu onClick={this.onUserSelected.bind(this)} imageUrl={this.props.profile.picture.data.url} name={this.props.profile.name} users={[]} user_fb_id={this.props.profile.user_fb_id}/>;
+    const menu = <Menu onClick={this.onUserSelected.bind(this)} imageUrl={this.props.profile.picture} name={this.props.profile.name} users={[]} user_fb_id={this.props.profile.user_fb_id}/>;
     return (
       <SideMenu
         menu={menu}
@@ -166,7 +164,7 @@ export default class ChatComponent extends Component {
                         let src = this.state.friendPicture;
                         if(message.sender == this.props.profile.user_fb_id) {
                             styles.push(Styles.bubbleRight, Styles.bgDarkBlue);
-                            src = this.props.profile.picture.data.url;
+                            src = this.props.profile.picture;
                         }
                         return (
                             <View style={styles} key={i}>
