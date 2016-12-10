@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/res/merged/debug/values-ru/values-ru.xml",
+        "outputFile": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/res/merged/debug/values-ru/values-ru.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 215
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 446
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 660
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 746
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 851
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 971
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1051
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1157
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1265
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1363
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1472
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1578
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1686
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1822
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1922
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 2057
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 2181
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 2307
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 2403
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 2474
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 2546
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 2607
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 2681
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 2751
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 2841
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 2913
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 2985
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 3068
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 3177
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3245
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 3315
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 3473
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -657,13 +657,13 @@
                     "endOffset": 3582
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 340,
-                        "endColumn": 108,
-                        "endOffset": 444
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 104,
+                        "endOffset": 387
                     }
                 }
             },
@@ -676,13 +676,13 @@
                     "endOffset": 3780
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 449,
+                        "startColumn": 0,
+                        "startOffset": 388,
                         "endColumn": 197,
-                        "endOffset": 642
+                        "endOffset": 585
                     }
                 }
             },
@@ -695,13 +695,13 @@
                     "endOffset": 3908
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 647,
-                        "endColumn": 127,
-                        "endOffset": 770
+                        "startColumn": 0,
+                        "startOffset": 586,
+                        "endColumn": 123,
+                        "endOffset": 709
                     }
                 }
             },
@@ -714,13 +714,13 @@
                     "endOffset": 4020
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 775,
-                        "endColumn": 111,
-                        "endOffset": 882
+                        "startColumn": 0,
+                        "startOffset": 710,
+                        "endColumn": 107,
+                        "endOffset": 817
                     }
                 }
             },
@@ -729,17 +729,17 @@
                     "startLine": 40,
                     "startColumn": 4,
                     "startOffset": 4025,
-                    "endColumn": 206,
-                    "endOffset": 4227
+                    "endColumn": 200,
+                    "endOffset": 4221
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 887,
-                        "endColumn": 206,
-                        "endOffset": 1089
+                        "startColumn": 0,
+                        "startOffset": 818,
+                        "endColumn": 200,
+                        "endOffset": 1018
                     }
                 }
             },
@@ -747,18 +747,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 4232,
-                    "endColumn": 207,
-                    "endOffset": 4435
+                    "startOffset": 4226,
+                    "endColumn": 130,
+                    "endOffset": 4352
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 1094,
-                        "endColumn": 207,
-                        "endOffset": 1297
+                        "startColumn": 0,
+                        "startOffset": 1019,
+                        "endColumn": 126,
+                        "endOffset": 1145
                     }
                 }
             },
@@ -766,18 +766,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 4440,
-                    "endColumn": 130,
-                    "endOffset": 4566
+                    "startOffset": 4357,
+                    "endColumn": 132,
+                    "endOffset": 4485
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1302,
-                        "endColumn": 130,
-                        "endOffset": 1428
+                        "startColumn": 0,
+                        "startOffset": 1146,
+                        "endColumn": 128,
+                        "endOffset": 1274
                     }
                 }
             },
@@ -785,18 +785,18 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 4571,
-                    "endColumn": 132,
-                    "endOffset": 4699
+                    "startOffset": 4490,
+                    "endColumn": 215,
+                    "endOffset": 4701
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/res/values-ru/values.xml",
                     "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1433,
-                        "endColumn": 132,
-                        "endOffset": 1561
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 215,
+                        "endOffset": 500
                     }
                 }
             },
@@ -804,18 +804,18 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 4704,
-                    "endColumn": 250,
-                    "endOffset": 4950
+                    "startOffset": 4706,
+                    "endColumn": 239,
+                    "endOffset": 4941
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 343,
-                        "endColumn": 250,
-                        "endOffset": 589
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1275,
+                        "endColumn": 239,
+                        "endOffset": 1514
                     }
                 }
             },
@@ -823,18 +823,18 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 4955,
-                    "endColumn": 263,
-                    "endOffset": 5214
+                    "startOffset": 4946,
+                    "endColumn": 108,
+                    "endOffset": 5050
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1566,
-                        "endColumn": 263,
-                        "endOffset": 1825
+                        "startColumn": 0,
+                        "startOffset": 1515,
+                        "endColumn": 104,
+                        "endOffset": 1619
                     }
                 }
             },
@@ -842,18 +842,18 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 5219,
-                    "endColumn": 122,
-                    "endOffset": 5337
+                    "startOffset": 5055,
+                    "endColumn": 193,
+                    "endOffset": 5244
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1830,
-                        "endColumn": 122,
-                        "endOffset": 1948
+                        "startColumn": 0,
+                        "startOffset": 1620,
+                        "endColumn": 193,
+                        "endOffset": 1813
                     }
                 }
             },
@@ -861,18 +861,18 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 5342,
-                    "endColumn": 108,
-                    "endOffset": 5446
+                    "startOffset": 5249,
+                    "endColumn": 127,
+                    "endOffset": 5372
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1953,
-                        "endColumn": 108,
-                        "endOffset": 2057
+                        "startColumn": 0,
+                        "startOffset": 1814,
+                        "endColumn": 123,
+                        "endOffset": 1937
                     }
                 }
             },
@@ -880,18 +880,18 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 5451,
-                    "endColumn": 193,
-                    "endOffset": 5640
+                    "startOffset": 5377,
+                    "endColumn": 225,
+                    "endOffset": 5598
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 2062,
-                        "endColumn": 193,
-                        "endOffset": 2251
+                        "startColumn": 0,
+                        "startOffset": 1938,
+                        "endColumn": 225,
+                        "endOffset": 2163
                     }
                 }
             },
@@ -899,18 +899,18 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 5645,
-                    "endColumn": 127,
-                    "endOffset": 5768
+                    "startOffset": 5603,
+                    "endColumn": 187,
+                    "endOffset": 5786
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 2256,
-                        "endColumn": 127,
-                        "endOffset": 2379
+                        "startColumn": 0,
+                        "startOffset": 2164,
+                        "endColumn": 183,
+                        "endOffset": 2347
                     }
                 }
             },
@@ -918,18 +918,18 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 5773,
-                    "endColumn": 225,
-                    "endOffset": 5994
+                    "startOffset": 5791,
+                    "endColumn": 98,
+                    "endOffset": 5885
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 2384,
-                        "endColumn": 225,
-                        "endOffset": 2605
+                        "startColumn": 0,
+                        "startOffset": 2348,
+                        "endColumn": 94,
+                        "endOffset": 2442
                     }
                 }
             },
@@ -937,18 +937,18 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 5999,
-                    "endColumn": 133,
-                    "endOffset": 6128
+                    "startOffset": 5890,
+                    "endColumn": 89,
+                    "endOffset": 5975
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 2610,
-                        "endColumn": 133,
-                        "endOffset": 2739
+                        "startColumn": 0,
+                        "startOffset": 2443,
+                        "endColumn": 85,
+                        "endOffset": 2528
                     }
                 }
             },
@@ -956,18 +956,18 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 6133,
-                    "endColumn": 187,
-                    "endOffset": 6316
+                    "startOffset": 5980,
+                    "endColumn": 114,
+                    "endOffset": 6090
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-ru/values.xml",
                     "position": {
                         "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 2744,
-                        "endColumn": 187,
-                        "endOffset": 2927
+                        "startColumn": 0,
+                        "startOffset": 2529,
+                        "endColumn": 110,
+                        "endOffset": 2639
                     }
                 }
             },
@@ -975,69 +975,12 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 6321,
-                    "endColumn": 98,
-                    "endOffset": 6415
-                },
-                "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2932,
-                        "endColumn": 98,
-                        "endOffset": 3026
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 6420,
-                    "endColumn": 89,
-                    "endOffset": 6505
-                },
-                "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3031,
-                        "endColumn": 89,
-                        "endOffset": 3116
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 6510,
-                    "endColumn": 114,
-                    "endOffset": 6620
-                },
-                "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-ru/values.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3121,
-                        "endColumn": 114,
-                        "endOffset": 3231
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 6625,
+                    "startOffset": 6095,
                     "endColumn": 59,
-                    "endOffset": 6680
+                    "endOffset": 6150
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1049,14 +992,14 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 6685,
+                    "startOffset": 6155,
                     "endColumn": 100,
-                    "endOffset": 6781
+                    "endOffset": 6251
                 },
                 "from": {
-                    "file": "/home/nairi/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
+                    "file": "/home/varik/Desktop/social-chat/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
