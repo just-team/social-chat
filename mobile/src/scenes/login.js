@@ -31,16 +31,18 @@ export default class LoginComponent extends Component {
     }
 
     onLogin(data) {
-        AsyncStorage.setItem(data.credentials.userId, JSON.stringify(data.profile));
-        console.log("Item set in storage");
         ChatEmitter.emit('send_user_data', prettyData(data));
-        Actions.chat({profile: data.profile});
-    } 
-    
+        ChatEmitter.on('login completed', (data) => {
+          AsyncStorage.setItem(data.user_fb_id, JSON.stringify(data));
+          console.log("Item set in storage");
+          Actions.chat({profile: data.profile});
+        });
+    }
+
     render() {
         return(
             <View style={[Styles.flex, Styles.flexCol, Styles.flexCenter]}>
-                    <FBLogin 
+                    <FBLogin
                         buttonView={<FBLoginView />}
                         ref={(fbLogin) => {
                             LoginEmitter.emit('setBtnText', fbLogin)
@@ -59,4 +61,3 @@ export default class LoginComponent extends Component {
         )
     }
 }
-

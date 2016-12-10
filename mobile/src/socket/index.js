@@ -25,7 +25,7 @@ socket.on('get message', (data) => {
 });
 
 socket.on('userTyping', (data) => {
-   ChatEmitter.emit('userTyping', data); 
+   ChatEmitter.emit('userTyping', data);
 });
 
 socket.on('get messages', (data) => {
@@ -38,6 +38,10 @@ socket.on('login complete', (userId) => {
 
 socket.on('get users', (users) => {
     ChatEmitter.emit('get users', users);
+});
+
+socket.on('login completed', (_id) => {
+    ChatEmitter.emit('login completed', _id);
 });
 
 socket.on('connect_failed', function() {

@@ -18,7 +18,7 @@ export default class ChatComponent extends Component {
           self.setMessageToStorage(data).bind(self)();
       });
       ChatEmitter.addListener('get messages', (data) => {
-          self.setMessagesToStorage(data).bind(self)()
+          self.setMessagesToStorage(data).bind(self)();
       });
       ChatEmitter.addListener('receive users', (data) => {
           self.setState({users: data});
@@ -45,11 +45,11 @@ export default class ChatComponent extends Component {
     AsyncStorage.getItem(`${self.state.friendId}msg`)
         .then(function(messages) {
             messages = messages || JSON.stringify([]);
-            messages = JSON.parse(messages);     
+            messages = JSON.parse(messages);
             messages.push(message);
             AsyncStorage.setItem(`${self.state.friendId}msg`, JSON.stringify(messages));
             self.setState({messages: messages})
-        });      
+        });
   }
 
   setMessagesToStorage(messages) {
@@ -66,7 +66,7 @@ export default class ChatComponent extends Component {
 
   sendMessage() {
       ChatEmitter.emit('send message', {
-          socketId: this.state.friendId, 
+          socketId: this.state.friendId,
           message: {
               to: this.state.friendUserId,
               from: this.props.profile.userId,
@@ -120,7 +120,7 @@ export default class ChatComponent extends Component {
                 <TextInput placeholder="Write a message..." style={Styles.input} onChangeText={this.onChangeText.bind(this)} value={this.state.message}/>
                 <Icon.Button name="message" backgroundColor="#757575" onPress={() => {}} style={Styles.flex, Styles.flexCenter , {height: 32, width: 64, borderRadius: 0}}>
                 </Icon.Button>
-            </View>        
+            </View>
         </View>
       </SideMenu>
     );
