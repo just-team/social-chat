@@ -31,8 +31,11 @@ export default class LoginComponent extends Component {
     }
 
     onLogin(data) {
+      console.log('------------------')
+      console.log(data)
+      console.log('------------------')
         ChatEmitter.emit('send_user_data', prettyData(data));
-        ChatEmitter.on('login completed', (data) => {
+        ChatEmitter.addListener('login completed', (data) => {
           AsyncStorage.setItem(data.user_fb_id, JSON.stringify(data));
           console.log("Item set in storage");
           Actions.chat({profile: data.profile});

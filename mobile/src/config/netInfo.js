@@ -1,14 +1,10 @@
 import { NetInfo } from 'react-native';
 
-NetInfo.isConnected.fetch().then(isConnected => {
-  console.log('First, is ' + (isConnected ? 'online' : 'offline'));
-});
+handleFirstConnectivityChange();
 function handleFirstConnectivityChange(isConnected) {
-  console.log('Then, is ' + (isConnected ? 'online' : 'offline'));
-  NetInfo.isConnected.removeEventListener(
-    'change',
-    handleFirstConnectivityChange
-  );
+  NetInfo.isConnected.fetch().then(isConnected => {
+    console.log('First, is ' + (isConnected ? 'online' : 'offline'));
+  });
 }
 NetInfo.isConnected.addEventListener(
   'change',

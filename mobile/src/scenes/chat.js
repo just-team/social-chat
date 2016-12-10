@@ -119,24 +119,11 @@ export default class ChatComponent extends Component {
       this.state.messages.push(message);
       this.setState({messages: this.state.messages});
       ChatEmitter.emit('send message', {
-<<<<<<< HEAD
-          socketId: this.state.friendId,
-          message: {
-              to: this.state.friendUserId,
-              from: this.props.profile.userId,
-              content: this.state.message,
-              date: Date.now()
-          }
-        });
-      setMessageToStorage(this.state.message);
-        this.setState({message: ""});
-=======
           socketId: this.state.friendSocketId,
           message: message
       });
       this.setMessageToStorage(message);
       this.setState({message: ""});
->>>>>>> 64fe49dde28c7a5bea3b814b4502868a78a202cd
   }
 
   onUserSelected = (data) => {
